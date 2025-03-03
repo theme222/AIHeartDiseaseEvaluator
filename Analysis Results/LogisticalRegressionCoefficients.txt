@@ -1,0 +1,14 @@
+          Coefficient
+age         -0.134113
+sex         -0.917980
+cp           0.775667
+trestbps    -0.342997
+chol        -0.385941
+fbs          0.034519
+restecg      0.130601
+thalach      0.538347
+exang       -0.516825
+oldpeak     -0.593007
+slope        0.432058
+ca          -0.774824
+thal        -0.559116
